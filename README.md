@@ -3,7 +3,7 @@
 Hi, I'm Taisei.
 
 ### My portfolio
-taisei-kg.com
+[taisei-kg.com](https://taisei-kg.com/)
 <!--
 **taisei25864/taisei25864** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -5,6 +5,13 @@ Hi, I'm Taisei.
 ### My portfolio
 [taisei-kg.com](https://taisei-kg.com/)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taisei25864/taisei25864/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taisei25864/taisei25864/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/taisei25864/taisei25864/output/pacman-contribution-graph.svg">
+</picture>
+
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisei25864&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=taisei25864&theme=onedark&show_icons=ture" />

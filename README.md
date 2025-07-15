@@ -11,9 +11,6 @@ Hi, I'm Taisei.
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/taisei25864/taisei25864/output/pacman-contribution-graph.svg">
 </picture>
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisei25864&layout=compact&show_icons=true&theme=onedark" />
-</p>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=taisei25864&theme=onedark&column=7
